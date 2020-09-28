@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    margin: auto;
+
+}
+
+header{
+    justify-content: center;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+
+#Contact-section, h1{
+    text-align: center;
+} 
